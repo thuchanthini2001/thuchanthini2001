@@ -26,7 +26,7 @@
 |----------|--------|
 | **Core Competencies** | ETL/ELT Pipelines, Data Lake Architecture, Batch & Real-Time Processing, Distributed Systems, Data Modeling, Data Quality & Governance, Pipeline Optimization, Big Data Processing, Cloud Data Engineering |
 | **Programming Languages** | Python, SQL |
-| **Big Data Technologies** | Apache Spark, Apache Kafka |
+| **Big Data Technologies** | Apache Kafka |
 | **Cloud** | Microsoft Azure |
 | **Tools** | Azure Data Factory (ADF), Sight Machine, SSMS, Databricks, GitHub, Jupyter Notebook |
 | **Concepts** | Data Pipeline Architecture, Real-Time Streaming, Batch Processing, Data Warehousing |
